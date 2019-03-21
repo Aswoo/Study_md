@@ -1,4 +1,4 @@
-    
+# INDEX
 
 - [컴퓨터 네트워크](#%EC%BB%B4%ED%93%A8%ED%84%B0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
     - [네트워크 관련 기초 용어 정리](#%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B4%80%EB%A0%A8-%EA%B8%B0%EC%B4%88-%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC)
@@ -26,6 +26,7 @@
   - [TCP의 3 way handshake와 4 way handshake](#tcp%EC%9D%98-3-way-handshake%EC%99%80-4-way-handshake)
   - [소켓의 주소 체계와 서비스](#%EC%86%8C%EC%BC%93%EC%9D%98-%EC%A3%BC%EC%86%8C-%EC%B2%B4%EA%B3%84%EC%99%80-%EC%84%9C%EB%B9%84%EC%8A%A4)
   - [HTTP와 HTTPS](#http%EC%99%80-https)
+  - [쿠키와 세션](#%EC%BF%A0%ED%82%A4%EC%99%80-%EC%84%B8%EC%85%98)
 
 ## 컴퓨터 네트워크 
 
